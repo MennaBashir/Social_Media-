@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1703641925 source:f:\repo\socialmedia\main.cpp
+	<iostream>
+	"Activity.h"
+	<windows.h>
+	<unistd.h>
+	<stdlib.h>
+
+1703638435 f:\repo\socialmedia\include\activity.h
+	<iostream>
+
+1703640584 source:f:\repo\socialmedia\src\activity.cpp
+	"Activity.h"
+
